@@ -1,22 +1,16 @@
-import asyncio
-import logging
-import sys
-import os
-
-from aiogram import Bot, Dispatcher, Router, types, F
+from aiogram import Bot, Dispatcher, Router, F
 from aiogram.enums import ParseMode
 from aiogram.filters import CommandStart
 from aiogram.filters.command import Command
 from aiogram.types import Message, CallbackQuery
 from aiogram.utils.markdown import hbold
 from aiogram.client.bot import DefaultBotProperties
-
-from aiogram.types import ReplyKeyboardRemove, \
-    ReplyKeyboardMarkup, KeyboardButton, \
-    InlineKeyboardMarkup, InlineKeyboardButton
-from aiogram.utils.keyboard import ReplyKeyboardBuilder, InlineKeyboardBuilder
+from aiogram.types import InlineKeyboardButton
+from aiogram.utils.keyboard import InlineKeyboardBuilder
 from config import TOKEN
-
+import asyncio
+import logging
+import sys
 from scraping import update_info
 import json
 
@@ -48,7 +42,8 @@ async def start(message: Message):
     await message.answer(
         f"Привіт! {hbold(message.from_user.full_name)}, це бот для моніторингу активних білетів на вистави театру імені І. Франка."
     )
-    await message.answer('Команди: \n /dd - для завантаження/оновлення даних \n /show - для повторного виведення вистав')
+    await message.answer(
+        'Команди: \n /dd - для завантаження/оновлення даних \n /show - для повторного виведення вистав')
 
 
 @dp.message(Command('show', prefix='/show'))
@@ -75,7 +70,6 @@ async def info(callback: CallbackQuery):
             await callback.message.answer(response, parse_mode=ParseMode.HTML)
             await callback.answer(f"Ви вибрали {key}")
             break
-
 
 
 async def main():
