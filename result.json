@@ -1,0 +1,456 @@
+{
+    "Три товариші": {
+        "id": 1,
+        "date": [
+            "30 Березня, Субота",
+            "11 Травня, Субота"
+        ],
+        "free_places": [
+            "500.00",
+            "100.00, 50.00, 60.00, 80.00"
+        ],
+        "count_free_places": [
+            1,
+            12
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4766",
+            "http://tickets.ft.org.ua/web/event/event_id/4853"
+        ]
+    },
+    "Всі мої сини": {
+        "id": 2,
+        "date": [
+            "31 Березня, Недiля",
+            "28 Квітня, Недiля"
+        ],
+        "free_places": [
+            "100.00, 120.00, 150.00, 200.00, 250.00, 50.00, 60.00, 80.00",
+            "100.00, 120.00, 150.00, 200.00, 250.00, 300.00, 350.00, 400.00, 50.00, 60.00, 80.00"
+        ],
+        "count_free_places": [
+            116,
+            496
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4767",
+            "http://tickets.ft.org.ua/web/event/event_id/4816"
+        ]
+    },
+    "Кар'єра Артуро Уї": {
+        "id": 3,
+        "date": [
+            "5 Квітня, П'ятниця",
+            "25 Травня, Субота"
+        ],
+        "free_places": [
+            "100.00, 120.00, 150.00, 200.00, 250.00, 300.00, 350.00, 400.00, 450.00, 50.00, 60.00, 80.00",
+            "100.00, 120.00, 150.00, 200.00, 250.00, 300.00, 350.00, 400.00, 450.00, 50.00, 500.00, 60.00, 80.00"
+        ],
+        "count_free_places": [
+            381,
+            537
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4799",
+            "http://tickets.ft.org.ua/web/event/event_id/4865"
+        ]
+    },
+    "Коріолан": {
+        "id": 4,
+        "date": [
+            "6 Квітня, Субота",
+            "4 Травня, Субота"
+        ],
+        "free_places": [
+            "100.00, 120.00, 150.00, 200.00, 250.00, 300.00, 350.00, 50.00, 60.00, 80.00",
+            "100.00, 120.00, 150.00, 200.00, 250.00, 300.00, 350.00, 400.00, 450.00, 50.00, 500.00, 60.00, 80.00"
+        ],
+        "count_free_places": [
+            174,
+            453
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4800",
+            "http://tickets.ft.org.ua/web/event/event_id/4847"
+        ]
+    },
+    "Скляний звіринець": {
+        "id": 5,
+        "date": [
+            "6 Квітня, Субота"
+        ],
+        "free_places": [
+            "300.00"
+        ],
+        "count_free_places": [
+            12
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4822"
+        ]
+    },
+    "Річард ІІІ": {
+        "id": 6,
+        "date": [
+            "7 Квітня, Недiля"
+        ],
+        "free_places": [
+            "100.00, 120.00, 150.00, 200.00, 250.00, 300.00, 350.00, 50.00, 60.00, 80.00"
+        ],
+        "count_free_places": [
+            203
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4801"
+        ]
+    },
+    "Файний Франко Ф`южн": {
+        "id": 7,
+        "date": [
+            "7 Квітня, Недiля",
+            "3 Травня, П'ятниця"
+        ],
+        "free_places": [
+            "300.00",
+            "100.00, 150.00, 200.00, 250.00, 300.00"
+        ],
+        "count_free_places": [
+            1,
+            78
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4823",
+            "http://tickets.ft.org.ua/web/event/event_id/4873"
+        ]
+    },
+    "На полі крові": {
+        "id": 8,
+        "date": [
+            "10 Квітня, Середа",
+            "14 Травня, Вiвторок"
+        ],
+        "free_places": [
+            "150.00, 200.00, 250.00, 300.00",
+            "100.00, 150.00, 200.00, 250.00, 300.00"
+        ],
+        "count_free_places": [
+            58,
+            108
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4825",
+            "http://tickets.ft.org.ua/web/event/event_id/4882"
+        ]
+    },
+    "Житейське море": {
+        "id": 9,
+        "date": [
+            "11 Квітня, Четвер",
+            "26 Квітня, П'ятниця",
+            "10 Травня, П'ятниця",
+            "24 Травня, П'ятниця"
+        ],
+        "free_places": [
+            "200.00, 300.00, 350.00",
+            "100.00, 200.00, 300.00, 350.00",
+            "100.00, 200.00, 300.00, 350.00",
+            "100.00, 200.00, 300.00, 350.00"
+        ],
+        "count_free_places": [
+            51,
+            73,
+            101,
+            91
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4826",
+            "http://tickets.ft.org.ua/web/event/event_id/4837",
+            "http://tickets.ft.org.ua/web/event/event_id/4879",
+            "http://tickets.ft.org.ua/web/event/event_id/4891"
+        ]
+    },
+    "Візит": {
+        "id": 10,
+        "date": [
+            "12 Квітня, П'ятниця",
+            "12 Травня, Недiля"
+        ],
+        "free_places": [
+            "100.00, 250.00, 300.00, 50.00, 60.00, 80.00",
+            "100.00, 150.00, 200.00, 250.00, 300.00, 350.00, 400.00, 450.00, 500.00, 80.00"
+        ],
+        "count_free_places": [
+            34,
+            213
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4805",
+            "http://tickets.ft.org.ua/web/event/event_id/4854"
+        ]
+    },
+    "Тев`є-Тевель": {
+        "id": 11,
+        "date": [
+            "13 Квітня, Субота",
+            "18 Травня, Субота"
+        ],
+        "free_places": [
+            "50.00, 60.00",
+            "100.00, 150.00, 50.00, 60.00, 80.00"
+        ],
+        "count_free_places": [
+            8,
+            83
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4806",
+            "http://tickets.ft.org.ua/web/event/event_id/4859"
+        ]
+    },
+    "Весілля Фігаро": {
+        "id": 12,
+        "date": [
+            "14 Квітня, Недiля",
+            "26 Травня, Недiля"
+        ],
+        "free_places": [
+            "100.00, 150.00, 200.00, 300.00, 50.00, 60.00, 80.00",
+            "100.00, 120.00, 150.00, 200.00, 250.00, 300.00, 400.00, 50.00, 60.00, 80.00"
+        ],
+        "count_free_places": [
+            17,
+            139
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4807",
+            "http://tickets.ft.org.ua/web/event/event_id/4866"
+        ]
+    },
+    "Комедія на руїнах": {
+        "id": 13,
+        "date": [
+            "16 Квітня, Вiвторок",
+            "16 Травня, Четвер"
+        ],
+        "free_places": [
+            "350.00",
+            "200.00, 300.00, 350.00"
+        ],
+        "count_free_places": [
+            1,
+            48
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4830",
+            "http://tickets.ft.org.ua/web/event/event_id/4884"
+        ]
+    },
+    "Війна": {
+        "id": 14,
+        "date": [
+            "17 Квітня, Середа",
+            "23 Травня, Четвер"
+        ],
+        "free_places": [
+            "100.00, 150.00, 200.00, 250.00, 300.00",
+            "100.00, 150.00, 200.00, 250.00, 300.00"
+        ],
+        "count_free_places": [
+            59,
+            90
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4831",
+            "http://tickets.ft.org.ua/web/event/event_id/4890"
+        ]
+    },
+    "Крум": {
+        "id": 15,
+        "date": [
+            "19 Квітня, П'ятниця",
+            "31 Травня, П'ятниця"
+        ],
+        "free_places": [
+            "150.00, 200.00, 250.00, 300.00",
+            "100.00, 150.00, 200.00, 250.00, 300.00"
+        ],
+        "count_free_places": [
+            26,
+            53
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4832",
+            "http://tickets.ft.org.ua/web/event/event_id/4897"
+        ]
+    },
+    "Пер Гюнт": {
+        "id": 16,
+        "date": [
+            "21 Квітня, Недiля"
+        ],
+        "free_places": [
+            "50.00"
+        ],
+        "count_free_places": [
+            1
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4812"
+        ]
+    },
+    "Момент кохання": {
+        "id": 17,
+        "date": [
+            "25 Квітня, Четвер",
+            "22 Травня, Середа"
+        ],
+        "free_places": [
+            "350.00",
+            "100.00, 200.00, 300.00, 350.00"
+        ],
+        "count_free_places": [
+            1,
+            58
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4836",
+            "http://tickets.ft.org.ua/web/event/event_id/4889"
+        ]
+    },
+    "Концерт \"Музи не мовчать\"": {
+        "id": 18,
+        "date": [
+            "27 Квітня, Субота"
+        ],
+        "free_places": [
+            "150.00, 200.00, 250.00, 300.00"
+        ],
+        "count_free_places": [
+            53
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4838"
+        ]
+    },
+    "Загнаний кінь": {
+        "id": 19,
+        "date": [
+            "5 Травня, Недiля"
+        ],
+        "free_places": [
+            "300.00, 350.00"
+        ],
+        "count_free_places": [
+            2
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4875"
+        ]
+    },
+    "Дами і гусари": {
+        "id": 20,
+        "date": [
+            "8 Травня, Середа"
+        ],
+        "free_places": [
+            "100.00, 120.00, 150.00, 200.00, 250.00, 300.00, 350.00, 400.00, 450.00, 50.00, 500.00, 60.00, 80.00"
+        ],
+        "count_free_places": [
+            524
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4850"
+        ]
+    },
+    "Мартин Боруля": {
+        "id": 21,
+        "date": [
+            "9 Травня, Четвер"
+        ],
+        "free_places": [
+            "100.00, 120.00, 150.00, 200.00, 250.00, 300.00, 350.00, 400.00, 450.00, 50.00, 500.00, 60.00, 80.00"
+        ],
+        "count_free_places": [
+            246
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4851"
+        ]
+    },
+    "Моя професія - синьйор з вищого світу": {
+        "id": 22,
+        "date": [
+            "15 Травня, Середа"
+        ],
+        "free_places": [
+            "150.00, 200.00, 250.00, 300.00, 50.00"
+        ],
+        "count_free_places": [
+            9
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4856"
+        ]
+    },
+    "Грек Зорба": {
+        "id": 23,
+        "date": [
+            "17 Травня, П'ятниця"
+        ],
+        "free_places": [
+            "100.00, 120.00, 150.00, 200.00, 250.00, 300.00, 350.00, 50.00, 60.00, 80.00"
+        ],
+        "count_free_places": [
+            218
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4858"
+        ]
+    },
+    "Авантюрист": {
+        "id": 24,
+        "date": [
+            "19 Травня, Недiля"
+        ],
+        "free_places": [
+            "100.00, 120.00, 150.00, 200.00, 250.00, 300.00, 350.00, 400.00, 450.00, 50.00, 500.00, 60.00, 80.00"
+        ],
+        "count_free_places": [
+            418
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4860"
+        ]
+    },
+    "Незрівнянна": {
+        "id": 25,
+        "date": [
+            "21 Травня, Вiвторок"
+        ],
+        "free_places": [
+            "100.00, 120.00, 150.00, 200.00, 250.00, 300.00, 350.00, 50.00, 60.00, 80.00"
+        ],
+        "count_free_places": [
+            173
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4861"
+        ]
+    },
+    "Співай, Лоло, співай!": {
+        "id": 26,
+        "date": [
+            "23 Травня, Четвер"
+        ],
+        "free_places": [
+            "100.00, 50.00, 60.00, 80.00"
+        ],
+        "count_free_places": [
+            7
+        ],
+        "link": [
+            "http://tickets.ft.org.ua/web/event/event_id/4863"
+        ]
+    }
+}
